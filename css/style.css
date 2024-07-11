@@ -82,6 +82,11 @@ section{
     font-weight: bolder;
     color: var(--black);
  }
+.goog-te-combo{
+	width: 130px;
+	height: 20px;
+	font-size: 20px;
+}
 .header .logo i{
     color: var(--orange);
  }
